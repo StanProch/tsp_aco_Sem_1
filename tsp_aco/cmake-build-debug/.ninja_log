@@ -1,0 +1,21 @@
+# ninja log v6
+2	295	7602885465510324	build.ninja	aa73a5bc97801802
+8	896	7602884916734849	CMakeFiles/tsp_aco.dir/main.cpp.obj.ddi	d5f7c9c9226cd740
+896	925	7602884925604178	C:/Users/stasp/CLionProjects/tsp_aco/cmake-build-debug/CMakeFiles/tsp_aco.dir/CXXModules.json	48b118507fdacd1e
+12	887	7602884916774401	CMakeFiles/tsp_aco.dir/functions.cpp.obj.ddi	bab0823a35d0edf7
+896	925	7602884925604178	CMakeFiles/tsp_aco.dir/CXX.dd	48b118507fdacd1e
+896	925	7602884925604178	CMakeFiles/tsp_aco.dir/main.cpp.obj.modmap	48b118507fdacd1e
+896	925	7602884925604178	CMakeFiles/tsp_aco.dir/functions.cpp.obj.modmap	48b118507fdacd1e
+929	1932	7602884925939026	CMakeFiles/tsp_aco.dir/functions.cpp.obj	7f5a92b9c33860f2
+926	2000	7602884925909101	CMakeFiles/tsp_aco.dir/main.cpp.obj	25bee9b4279ffa02
+7	32	7602885564791541	CMakeFiles/tsp_aco.dir/CXX.dd	48b118507fdacd1e
+7	32	7602885564791541	C:/Users/stasp/CLionProjects/tsp_aco/cmake-build-debug/CMakeFiles/tsp_aco.dir/CXXModules.json	48b118507fdacd1e
+7	32	7602885564791541	CMakeFiles/tsp_aco.dir/main.cpp.obj.modmap	48b118507fdacd1e
+7	32	7602885564791541	CMakeFiles/tsp_aco.dir/functions.cpp.obj.modmap	48b118507fdacd1e
+8	230	7602885764502167	CMakeFiles/tsp_aco.dir/main.cpp.obj.ddi	d5f7c9c9226cd740
+230	256	7602885766715967	CMakeFiles/tsp_aco.dir/CXX.dd	48b118507fdacd1e
+230	256	7602885766715967	C:/Users/stasp/CLionProjects/tsp_aco/cmake-build-debug/CMakeFiles/tsp_aco.dir/CXXModules.json	48b118507fdacd1e
+230	256	7602885766715967	CMakeFiles/tsp_aco.dir/main.cpp.obj.modmap	48b118507fdacd1e
+230	256	7602885766715967	CMakeFiles/tsp_aco.dir/functions.cpp.obj.modmap	48b118507fdacd1e
+257	1155	7602885766995939	CMakeFiles/tsp_aco.dir/main.cpp.obj	25bee9b4279ffa02
+1156	1288	7602885775982459	tsp_aco.exe	48b40f43de356c81

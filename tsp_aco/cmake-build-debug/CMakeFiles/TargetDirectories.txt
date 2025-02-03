@@ -1,0 +1,3 @@
+C:/Users/stasp/CLionProjects/tsp_aco/cmake-build-debug/CMakeFiles/tsp_aco.dir
+C:/Users/stasp/CLionProjects/tsp_aco/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/stasp/CLionProjects/tsp_aco/cmake-build-debug/CMakeFiles/rebuild_cache.dir
